@@ -32,6 +32,7 @@ USE_X_FORWARDED_HOST = True
 ALLOWED_HOSTS = [
     'news.python.sc',
     'localhost',
+    '127.0.0.1',
 ]
 
 
