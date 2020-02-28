@@ -33,6 +33,8 @@ ALLOWED_HOSTS = [
     'news.python.sc',
     'localhost',
     '127.0.0.1',
+    '192.168.50.11',
+    '192.168.50.12',
 ]
 
 
